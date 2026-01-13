@@ -2,7 +2,7 @@
   "name": "webpack-pdf.js-example",
   "version": "0.2.0",
   "scripts": {
-    "build": "webpack"
+    "build": "node init && webpack"
   },
   "devDependencies": {
     "webpack": "^5.89.0",
